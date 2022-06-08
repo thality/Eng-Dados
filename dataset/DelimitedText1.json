@@ -13,7 +13,7 @@
 				"fileName": "estacoes_antt.csv",
 				"fileSystem": "teste"
 			},
-			"columnDelimiter": ",",
+			"columnDelimiter": ";",
 			"escapeChar": "\\",
 			"firstRowAsHeader": true,
 			"quoteChar": "\""
